@@ -8,11 +8,9 @@
     - Load assets
     - Init misc game info (like constants and such)
 - [2] Scene class
-    - Draw to screen (MAKE IMAGES SCALE PROPERLY)
+    - Draw to screen (Do NOT scale images properly; too much work)
     - Switch between substates
-    - Transition between scenes
-        - Abrupt
-        - Fade out/in
+    - Switch between scenes
 - [3] Entity class
     - Position, image, drawing priority
 - [4] HUD
